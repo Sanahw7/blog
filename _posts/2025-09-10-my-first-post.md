@@ -1,6 +1,5 @@
 Sanah White
 
-<img src="/blog/images/DMC.jpg" alt="Devil May Cry">
 
 My summer break was a pretty bland experience. The only things I did were an internship and worry about the colleges I'm going to apply/go to. 
 
@@ -9,7 +8,8 @@ The name of the internship is "WorkED" and it's cybersecurity based. This would'
 <img src="/blog/images/Cert69381959220.jpg" alt= "Network Security Certification">
 
 
-Another part I had b
+The transition to junior year to senior year is a lot more stressful than I thought. Already in September people are telling you to pick out your 6 CUNY schools and 7 SUNY schools, write your college essay, get your letter of recommendations and a bunch of other things that cause more stress which is why I dreaded becoming a senior. What made the college search so difficult was figuring out if I wanted to stay in my home state or move away I realized I wasn’t prepared to move away because I’ll to take care of my own expenses beside college and pick up certain skills as my parents aren’t there to help me and I have to get used to a whole new setting knowing I was used to New York. As a junior I was sure I was going to get my bachelor’s in one go, but as a senior at most CUNY schools you have to do an associates degree then transfer which was a huge disappointment to me. I’m getting much more assistance with this process and this is becoming easier to handle.
+
 
 
 
