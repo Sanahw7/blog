@@ -2,7 +2,11 @@ Sanah White
 
 <img src="/blog/images/DMC.jpg" alt="Devil May Cry">
 
-My summer break was a pretty bland experience as all I did was an internship that I had no interest in. The internship's name is “WorkED” and it was cybersecurity based. I hate cybersecurity. It's too much content and it will eventually turn boring. The worst part of it was everything was group based. There were projects assigned that could’ve been solo work. It's even more irritating when you have a team member that acts as if they don’t know what they’re doing and takes credit for the work when it’s done. Enough of that now that I’m a senior there’s a lot more to ponder about such as what college I’d like to go to which I’m unsure. To be honest I don’t even wanna go to college but I’m going because I’d like a good job and a stable income. The tech job market today is trash because AI will replace the majority of us and I’m not ready to accept that. 
+My summer break was a pretty bland experience. The only things I did were an internship and worry about the colleges I'm going to apply/go to. 
+
+The name of the internship is "WorkED" and it's cybersecurity based. This would've been an excellent thing if I actually enjoyed cybersecurity but I don't. There's so much content and eventually you'll lose me. Sadly it was the only other tech related internship avaliable. The point of the internship  was to obviously teach the participants about cybersecurity and have them earn a certification. What I didn’t like was they tried to force AI into it. No topic we did had AI and cybersecurity in the same room. We were given different projects based on different fundamentals of cybersecurity, mainly the CIA triad, which is just a complex way of making sure things are tightly secured physically and online. It was worth it now I have another certification for network security and a little extra knowledge on cybersecurity knowing it can benefit me in the real world.
+
+<img src="/blog/images/Cert693381959220.jpg" alt= "Network Security Certification">
 
 
 
