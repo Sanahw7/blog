@@ -46,6 +46,9 @@ This last snippet of code’s purpose is supposed to ask the user to enter the c
 <br>
 
 <strong> REFLECTIONS </strong>
+<br>
+<br>
+
 Debugging is something that requires patience when doing. This is because you can easily think there’s this huge mistake you have to fix when all along it’s a simple syntax error such as missing colon or misspelled word. Thankfully debugging will help me in the future with my coding because I’ll know now to look for the basics like missing things.
  
 
